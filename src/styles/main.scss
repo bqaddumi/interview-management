@@ -3,9 +3,8 @@ $primary-color:#BADA55;
 
 .container {
  color: yellow;
- margin: 50px;
- .button{
-   background: $primary-color
-   
- }
+}
+
+.navbar_root{
+    flex-grow: 1;
 }
