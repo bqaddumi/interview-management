@@ -1,6 +1,10 @@
 class Bashar extends Component {
   render() {
-    return <div>Taimaa</div>;
+    return (
+      <span>
+        <span>Bashar & taima</span>
+      </span>
+    );
   }
 }
 
