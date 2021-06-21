@@ -1,9 +1,9 @@
 class Bashar extends Component {
   render() {
     return (
-      <div>
+      <span>
         <span>Bashar & taima</span>
-      </div>
+      </span>
     );
   }
 }
