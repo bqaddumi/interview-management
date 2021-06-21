@@ -1,7 +1,7 @@
-class Taima extends Component {
+class Bashar extends Component {
   render() {
     return <div>Taimaa</div>;
   }
 }
 
-export default Taima;
+export default Bashar;
