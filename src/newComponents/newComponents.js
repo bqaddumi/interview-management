@@ -1,7 +1,7 @@
 class Ibrahem extends Component {
     render() {
         return (
-            <h1>Hello Guys</h1>
+            <h2>Hello Guys</h2>
         );
     }
 }
